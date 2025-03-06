@@ -2,6 +2,8 @@
 
 ### Documentation
 
+![Living Simple Life](assets/screenshot.png)
+
 **Design Choices:**
 The design of the blog emphasizes simplicity and minimalism, reflecting the core theme of the content. The layout is clean and responsive, ensuring a seamless experience across devices. The color palette is muted, with shades of blue and gray, promoting a calm and focused reading environment. The typography uses a combination of serif and sans-serif fonts to create a balanced and modern look. The navigation is straightforward, with a clear hierarchy and intuitive links to different sections of the blog.
 
